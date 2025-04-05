@@ -4,7 +4,7 @@
 
 int main()
 {
-	std::cout<<"test"<<std::endl;
-	test();
+	std::cout<<"test1"<<std::endl;
+	test1();
 	return 0;
 }
